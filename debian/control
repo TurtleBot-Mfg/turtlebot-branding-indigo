@@ -1,0 +1,15 @@
+Source: turtlebot-branding-groovy
+Section: graphics
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.9.3
+
+Package: turtlebot-branding-groovy
+Architecture: any
+Provides: turtlebot-branding-groovy
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}, turtlebot-wallpapers
+Description: TurtleBot Branding 
+ This package replace the Ubuntu branding with TurtleBot branding
