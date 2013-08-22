@@ -1,5 +1,5 @@
-turtlebot-branding-groovy (0.0.2) precise; urgency=low
+turtlebot-branding-hydro (0.0.3) precise; urgency=low
 
-  * ....
+  * Fork and bump wallpapers to groovy
 
- -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 01:29:21 -0400
+ -- I Heart Engineering <code@iheartengineering.com>  Mon, 11 Feb 2013 01:52:08 -0500

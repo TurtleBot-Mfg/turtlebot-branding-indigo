@@ -1,15 +1,15 @@
-Source: turtlebot-branding-groovy
+Source: turtlebot-branding-hydro
 Section: graphics
 Priority: optional
 Maintainer: I Heart Engineering <code@iheartengineering.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
-Package: turtlebot-branding-groovy
+Package: turtlebot-branding-hydro
 Architecture: any
-Provides: turtlebot-branding-groovy
-Conflicts: 
+Provides: turtlebot-branding-hydro
+Conflicts:
 Replaces:
-Depends: ${misc:Depends}, turtlebot-wallpapers
+Depends: ${misc:Depends}, turtlebot-wallpapers-hydro
 Description: TurtleBot Branding 
  This package replace the Ubuntu branding with TurtleBot branding

@@ -1,6 +1,6 @@
-turtlebot-branding
+turtlebot-branding-hydro
 
-This package provides TurtleBot branding.
+This package provides TurtleBot branding for ROS Hydro.
 It replaces the following
 
  * default user desktop background
