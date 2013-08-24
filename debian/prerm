@@ -1,10 +1,13 @@
 #!/bin/sh
 
 if [ "$1" = remove ]; then
+    rm /lib/plymouth/themes/default.grub
     dpkg-divert --package turtlebot-branding-hydro --remove --rename \
         /lib/plymouth/themes/default.grub
+    rm /usr/share/themes/Ambiance/gtk-3.0/apps/gnome-terminal.css
     dpkg-divert --package turtlebot-branding-hydro --remove --rename \
         /usr/share/themes/Ambiance/gtk-3.0/apps/gnome-terminal.css
+    rm /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script
     dpkg-divert --package turtlebot-branding-hydro --remove --rename \
         /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script
 fi

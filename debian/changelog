@@ -1,3 +1,14 @@
+turtlebot-branding-hydro (0.0.5~1.gbp2e732c) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @2e732c66a8b61a5a7d064c505a4884340e959d68 **
+
+  * adding -hydro to gitignore
+  * Fixing divert removal
+  * Fixing Provides and Architecture Any->All
+  * Changes keep changing.
+
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 22:12:42 -0400
+
 turtlebot-branding-hydro (0.0.4) precise; urgency=low
 
   * Fork and bump for ROS Hydro
