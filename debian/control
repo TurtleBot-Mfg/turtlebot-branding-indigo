@@ -6,10 +6,10 @@ Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
 Package: turtlebot-branding-hydro
-Architecture: any
-Provides: turtlebot-branding-hydro
-Conflicts:
+Architecture: all
+Provides: turtlebot-branding
+Conflicts: turtlebot-branding
 Replaces:
-Depends: ${misc:Depends}, turtlebot-wallpapers-hydro
+Depends: ${misc:Depends}, turtlebot-wallpapers-hydro | turtlebot-wallpapers
 Description: TurtleBot Branding 
  This package replace the Ubuntu branding with TurtleBot branding
