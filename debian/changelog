@@ -1,3 +1,9 @@
+turtlebot-branding-hydro (0.0.4) precise; urgency=low
+
+  * Fork and bump for ROS Hydro
+
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 15:53:57 -0400
+
 turtlebot-branding-hydro (0.0.3) precise; urgency=low
 
   * Fork and bump wallpapers to groovy
