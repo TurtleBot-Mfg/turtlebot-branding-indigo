@@ -1,13 +1,22 @@
-turtlebot-branding-hydro (0.0.5~1.gbp2e732c) UNRELEASED; urgency=low
+turtlebot-branding-hydro (0.0.6~1.gbpd0c0a2) UNRELEASED; urgency=low
 
-  ** SNAPSHOT build @2e732c66a8b61a5a7d064c505a4884340e959d68 **
+  ** SNAPSHOT build @d0c0a2724d4a377a09696257959509624e7e7df6 **
+
+  [ lucid ]
+  * UNRELEASED
+
+  [ I Heart Engineering ]
+
+ -- I Heart Engineering <code@iheartengineering.com>  Sat, 24 Aug 2013 19:17:33 -0400
+
+turtlebot-branding-hydro (0.0.5) precise; urgency=low
 
   * adding -hydro to gitignore
   * Fixing divert removal
   * Fixing Provides and Architecture Any->All
   * Changes keep changing.
 
- -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 22:12:42 -0400
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 23:19:11 -0400
 
 turtlebot-branding-hydro (0.0.4) precise; urgency=low
 
