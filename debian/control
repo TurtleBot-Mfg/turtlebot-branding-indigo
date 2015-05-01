@@ -1,15 +1,15 @@
-Source: turtlebot-branding-hydro
+Source: turtlebot-branding-indigo
 Section: graphics
 Priority: optional
-Maintainer: I Heart Engineering <code@iheartengineering.com>
+Maintainer: NE Automation <code@neautomation.com>
 Build-Depends: debhelper (>= 5), cdbs
-Standards-Version: 3.9.3
+Standards-Version: 3.9.5
 
-Package: turtlebot-branding-hydro
+Package: turtlebot-branding-indigo
 Architecture: all
 Provides: turtlebot-branding
 Conflicts: turtlebot-branding
 Replaces: turtlebot-branding
-Depends: ${misc:Depends}, turtlebot-wallpapers-hydro | turtlebot-wallpapers
+Depends: ${misc:Depends}, turtlebot-wallpapers-indigo | turtlebot-wallpapers
 Description: TurtleBot Branding 
  This package replace the Ubuntu branding with TurtleBot branding

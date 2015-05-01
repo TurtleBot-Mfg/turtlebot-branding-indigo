@@ -1,31 +1,5 @@
-turtlebot-branding-hydro (0.0.6~1.gbpd0c0a2) UNRELEASED; urgency=low
+turtlebot-branding-indigo (0.0.5) precise; urgency=low
 
-  ** SNAPSHOT build @d0c0a2724d4a377a09696257959509624e7e7df6 **
+  * Forking for indigo
 
-  [ lucid ]
-  * UNRELEASED
-
-  [ I Heart Engineering ]
-
- -- I Heart Engineering <code@iheartengineering.com>  Sat, 24 Aug 2013 19:17:33 -0400
-
-turtlebot-branding-hydro (0.0.5) precise; urgency=low
-
-  * adding -hydro to gitignore
-  * Fixing divert removal
-  * Fixing Provides and Architecture Any->All
-  * Changes keep changing.
-
- -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 23:19:11 -0400
-
-turtlebot-branding-hydro (0.0.4) precise; urgency=low
-
-  * Fork and bump for ROS Hydro
-
- -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 15:53:57 -0400
-
-turtlebot-branding-hydro (0.0.3) precise; urgency=low
-
-  * Fork and bump wallpapers to groovy
-
- -- I Heart Engineering <code@iheartengineering.com>  Mon, 11 Feb 2013 01:52:08 -0500
+ -- NE Automation <code@neautomation.com>  Fri, 23 Aug 2013 23:19:11 -0400
